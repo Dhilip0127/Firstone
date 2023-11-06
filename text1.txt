@@ -1,2 +1,1 @@
-this is dhilip kumar
-in studying postgres in youtube
+dhilip
